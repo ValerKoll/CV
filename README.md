@@ -5,6 +5,9 @@ Hello, I am an enthusiast software engineer learner currently enrolled at Makers
 My Journey:
 <a href="https://youtu.be/oOkGwmqWoqs">Typing 1</a>
 
+Presentations:
+><a href="res/ssl_presentation.pdf">SSL presentation</a>
+
 
 -------------------- work in progress 
 TODO's
