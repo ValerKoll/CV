@@ -10,6 +10,8 @@ Presentations:
 
 
 -------------------- work in progress 
+Protfolio tips: https://github.com/andysterks/three-levels-of-projects.git
+
 TODO's
 
 1. Readme File:
