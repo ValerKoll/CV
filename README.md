@@ -3,10 +3,13 @@
 Hello, I am an enthusiast software engineer learner currently enrolled at Makers Academy
 
 My Journey:
-<a href="https://youtu.be/oOkGwmqWoqs">Typing 1</a>
+><a href="https://youtu.be/oOkGwmqWoqs">Typing 1</a>
 
 Presentations:
 ><a href="res/ssl_presentation.pdf">SSL presentation</a>
+
+Feedback from a fellow student:
+><a href="res/fellow_student_feedback.md">Feedback</a>
 
 
 -------------------- work in progress 
