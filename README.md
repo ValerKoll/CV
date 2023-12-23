@@ -3,8 +3,8 @@
 
 Hello, I am Valerio, an enthusiastic software engineering student currently enrolled at Makers Academy, I am keen to work alongside professional software developers with a positive entrepreneurial mindset, whilst diligently building my career in tech. Among my core values are inclusivity, prompting teamwork, and embracing continuous growth. With a diverse background encompassing engineering in the construction industry, coupled with hands-on experience in software and web development freelancing, I bring a unique blend of skills to the table. I am currently developing a good understanding and passion for test-driven development within an agile working environment. I am excited about the opportunity to bring my diverse skill set and dedication to learning to a dynamic team. 
 
-Please find below more details about me <br>  alternatively you can view my CV attached <a href="Valerio Piotti CV.pdf">here</a><br>
-You can also visit my online portfolio at https://github.com/ValerKoll/valerkoll.github.io<br>
+Please find below more details about me <br>  .. alternatively you can view my CV attached <a href="valerio_piotti_CV.pdf">here</a><br>
+.. or you can also visit my <a href="https://valerkoll.github.io">online portfolio</a><br>
 
 <br><br>
 TABLE OF CONTENT:
