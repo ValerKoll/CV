@@ -1,63 +1,72 @@
 # Valerio Piotti's CV
 
-Hello, I am an enthusiast software engineer learner currently enrolled at Makers Academy
 
-My Journey:
-><a href="https://youtu.be/oOkGwmqWoqs">Typing 1</a>
+Hello, I am Valerio, an enthusiastic software engineering student currently enrolled at Makers Academy, I am keen to work alongside professional software developers with a positive entrepreneurial mindset, whilst diligently building my career in tech. Among my core values are inclusivity, prompting teamwork, and embracing continuous growth. With a diverse background encompassing engineering in the construction industry, coupled with hands-on experience in software and web development freelancing, I bring a unique blend of skills to the table. I am currently developing a good understanding and passion for test-driven development within an agile working environment. I am excited about the opportunity to bring my diverse skill set and dedication to learning to a dynamic team. 
 
-Presentations:
-><a href="res/ssl_presentation.pdf">SSL presentation</a>
+Please find below more details about me <br>  alternatively you can view my CV attached <a href="Valerio Piotti CV.pdf">here</a><br>
+You can also visit my online portfolio at https://github.com/ValerKoll/valerkoll.github.io<br>
 
-Feedback from a fellow student:
-><a href="res/fellow_student_feedback.md">Feedback</a>
+<br><br>
+TABLE OF CONTENT:
+> Skills<br>
+> Projects<br>
+> Education<br>
+> Working Experiences<br>
+> Other Relevant Experiences and Studies<br>
 
 
--------------------- work in progress 
+### Technical and Transferable skills
+```
+Languages: C, Python, HTML, PHP
+Databases: SQL, PostgreSQL
+Testing: TDD, VScode debugging
+Version control: Git, GitHub
+
+Proactive learner with a mentoring attitude.
+Problem-Solving oriented and goal-focused individual.
+Capable to efficiently self-managing daily workload.
+Cross-platform software and hardware knowledge.
+```
+________________________________________
+### Projects
+```
+• Chitter project.	A simplified version of the most famous social media Twitter giving the option to add multiple comments to single posts.  Python, TDD
+• TKway app.	A simple takeaway platform to order food online.	Python, TDD
+```
+________________________________________
+### Education
+```
+• Makers Academy, Bootcamp in Software Engineering – 2024
+Subjects studied: Object-Oriented Design, Agile methodologies, Test-Driven Development, Pair Programming, Web applications, Cloud Deployment, Git version control, CI-CD technique. 
+• University of East London - BSc (Hons) in Surveying and Mapping Sciences – 2017 - Grade:  Distinct
+• ENAIP, Italy. Post-Diploma in Software Engineering – 2003 - Grade:  9/10
+Subjects studied: Visual Basic, C++ and C languages, Object-Oriented Programming, Debugging methodologies, Team Programming, Hardware-Software integration.
+```
+________________________________________
+### Working Experiences
+```
+Geomatic Surveyor at Geocisa UK at the HS2 project in London - August 2022 to April 2023
+•	Demonstrated leadership and initiative when I was placed in charge to lead the project and training junior staff. Collaborated with a team of professionals to ensure consistent and on-time daily goals delivery.
+•	Implemented a shared cloud storage data hub across the whole technician team for seamless data synchronization.
+•	Implemented checks to prevent re-use of inactive input data using version and timestamp.
+
+Self-Employed Multi-Purpose Craftsman, across London - From March 2021 to August 2022 
+•	Implemented a seamless coded record process across platforms with use of third-party software to track project progression and utilized feedback to monitor client’s satisfaction.
+
+Geomatic Surveyor at DYWIDAG-Systems, across the whole England - From October 2019 to March 2021
+•	Prioritized communication and frequently stand-ups to highlights key features that needed to be delivered. As a result of this the technician team were aligned on which tasks to prioritize and consistently met deadlines on time.
+•	Developed expertise in the use of advanced surveying equipment and highly precise monitoring techniques.
+```
+________________________________________
+### Other Relevant Experiences and Studies
+```
+Software Engineer Internship at Digicom plc. Italy. 
+Among my tasks, I was tasked to debug the main on-platform software for the flag-ship VoIP router-like device. After assessing the beta version code, I ended up rewriting the entire application from scratch utilizing the OOD. The result was a much more functional and linear back-end package with none-to-zero latency.
+
+Currently Undertaking the CS50 online version.
+CS50x covers a comprehensive introduction to computer science and programming. It includes fundamental concepts such as problem-solving, algorithms, and programming languages. It provides a strong foundation for further learning and application in diverse technical roles
+```
+
+
 Protfolio tips: https://github.com/andysterks/three-levels-of-projects.git
 
-TODO's
-
-1. Readme File:
-Create a well-written README.md file at the root of your repository.
-Introduce yourself briefly and explain the purpose of the repository (your CV).
-Include badges for skills, certifications, or technologies you want to highlight.
-Provide a table of contents for easy navigation.
-2. Profile Section:
-Create a section dedicated to your profile.
-Include a professional profile picture.
-Provide a short bio or professional summary.
-List your contact information (LinkedIn, Twitter, Email).
-3. Skills:
-Highlight your technical skills using a skills matrix or bullet points.
-Categorize skills into programming languages, frameworks, tools, and methodologies.
-4. Education:
-List your educational background with the most recent first.
-Include the name of the institution, degree, major, and graduation date.
-Optionally, add relevant coursework or academic achievements.
-5. Work Experience:
-Detail your work experience, starting with the most recent position.
-Include the company name, your role, and the duration of employment.
-Provide a brief description of your responsibilities and achievements.
-6. Projects:
-Create a dedicated section to showcase your projects.
-Include a short description of each project, its purpose, and the technologies used.
-Add links to live demos (if applicable) or deployment instructions.
-Embed images or GIFs to visually represent the projects.
-7. Awards and Certifications:
-If you have received any awards or certifications, create a section to highlight them.
-Include the name of the award or certification, the issuing organization, and the date received.
-8. Publications and Presentations:
-If applicable, include a section for any publications, articles, or presentations you have authored or contributed to.
-9. Languages:
-Mention any foreign languages you speak and your proficiency level.
-10. Volunteer Work:
-If you've contributed to open source projects or participated in volunteer work, highlight it in a separate section.
-11. Contact Information:
-Include a section with your contact information, encouraging potential employers or collaborators to reach out.
-12. Footer:
-Add a footer with links to your professional social media profiles, LinkedIn, and your personal website if applicable.
-Additional Tips:
-Use consistent formatting and styling for a professional look.
-Include hyperlinks to your LinkedIn profile, portfolio website, or other relevant sites.
-Regularly update your GitHub CV with new projects and achievements.
-By organizing your GitHub CV in this manner, you provide a clear and comprehensive overview of your skills, experience, and projects for potential employers or collaborators.
