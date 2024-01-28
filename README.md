@@ -1,37 +1,54 @@
 # Valerio Piotti's CV
 
 
-Hello, I am Valerio, an enthusiastic software engineering student currently enrolled at Makers Academy, I am keen to work alongside professional software developers with a positive entrepreneurial mindset, whilst diligently building my career in tech. Among my core values are inclusivity, prompting teamwork, and embracing continuous growth. With a diverse background encompassing engineering in the construction industry, coupled with hands-on experience in software and web development freelancing, I bring a unique blend of skills to the table. I am currently developing a good understanding and passion for test-driven development within an agile working environment. I am excited about the opportunity to bring my diverse skill set and dedication to learning to a dynamic team. 
+As a tech enthusiast and having recently completed the Makers Academy bootcamp in software development, I am keen to work alongside professional software engineers with a positive entrepreneurial mindset, whilst diligently building my career in programming.
+Amongst my core values are inclusivity and strong teamwork, whilst embracing continuous growth. Furthermore, I take ownership of my work, prioritize the quality of my delivery, driven by innovation and passion. I strive to create high-quality results whilst maintaining clear and frequent communication.
+I have a good understanding and passion for Test-Driven Development within an Agile Environment. With a background in construction engineering, I am enthusiastic about the possibility of bringing my diverse skill set and dedication to a dynamic team. 
 
-Please find below more details about me <br>  .. alternatively you can view my CV attached <a href="valerio_piotti_CV.pdf">here</a><br>
-.. or you can also visit my <a href="https://valerkoll.github.io">online portfolio</a><br>
+Please find below more details about me,<br>  ...alternatively you can view my full <a href="valer.pdf">CV attached</a>,<br>
+...or you can also visit my <a href="https://valerkoll.github.io">online portfolio</a>.<br>
+Thank you for your time
 
 <br><br>
 TABLE OF CONTENT:
-> Skills<br>
+> Technical and Soft Skills<br>
 > Projects<br>
 > Education<br>
 > Working Experiences<br>
 > Other Relevant Experiences and Studies<br>
 
 
-### Technical and Transferable skills
+### Technical and Soft skills
 ```
-Languages: C, Python, HTML, PHP
-Databases: SQL, PostgreSQL
-Testing: TDD, VScode debugging
-Version control: Git, GitHub
+>	Knowledge of the Agile workflow
+>	Knowledge of the Object-Oriented Design
+>	Languages: C, C++, Python, CSS/HTML5, PHP, VBA
+>	Databases: SQL, PostgreSQL
+>	Testing: TDD, VSCode debugging 
+>	Version control: Git, GitHub
+>	Capable of delivering focused professional communication exchanges.
+>	Proactive learner with a mentoring attitude.
+>	Problem-Solving oriented and goal-focused individual.
+>	Capable of efficiently self-managing daily workload.
+>	Cross-platform software and hardware knowledge. 
 
-Proactive learner with a mentoring attitude.
-Problem-Solving oriented and goal-focused individual.
-Capable to efficiently self-managing daily workload.
-Cross-platform software and hardware knowledge.
 ```
 ________________________________________
 ### Projects
 ```
-• Chitter project.	A simplified version of the most famous social media Twitter giving the option to add multiple comments to single posts.  Python, TDD
-• TKway app.	A simple takeaway platform to order food online.	Python, TDD
+MAKERSBNB
+github.com/ValerKoll/MakersBnB.git
+Similar to Airbnb, this website enables users to register, log in as either guest or host, add and book spaces available to rent for specific dates.
+Python, TDD, OOD, Flask, HTML, Jinja, CSS, SQL
+
+TWITTEX PROJECT
+A simplified version of the most famous social media Twitter giving the option to add multiple comments to single posts.
+Python, TDD, OOD, Flask, HTML, Jinja, CSS
+
+TKWAY APP
+A simple takeaway platform to order food online.	Python.
+TDD, SQL
+
 ```
 ________________________________________
 ### Education
@@ -43,30 +60,31 @@ Subjects studied: Object-Oriented Design, Agile methodologies, Test-Driven Devel
 Subjects studied: Visual Basic, C++ and C languages, Object-Oriented Programming, Debugging methodologies, Team Programming, Hardware-Software integration.
 ```
 ________________________________________
-### Working Experiences
+### Relvant Experiences
 ```
-Geomatic Surveyor at Geocisa UK at the HS2 project in London - August 2022 to April 2023
-•	Demonstrated leadership and initiative when I was placed in charge to lead the project and training junior staff. Collaborated with a team of professionals to ensure consistent and on-time daily goals delivery.
+
+Software developer student  |  Makers Academy  |  2023 – 2024
+•	Demonstrated a keen ability to thrive in an agile team environment, collaborating with four peers in short sprints on shared projects.
+•	Conducted regular stand-up meetings, retrospectives, and consistently delivered features, showcasing adaptability and teamwork.
+•	Acquired a diverse set of skills ready for immediate deployment in a professional setting.
+•	Proficient in Test-Driven Development (TTD), pair programming, and Git version control.
+•	Demonstrated competence in utilizing a range of tools for efficiently managing and executing full-stack projects.
+
+Geomatic Surveyor  |  Geocisa, HS2 project at Euston Station  |  2022 - 2023
+•	Demonstrated leadership and initiative by being selected to lead a complex project in addition to mentoring junior staff. Collaborated with a team of professionals to ensure consistent and on-time daily goal delivery.
 •	Implemented a shared cloud storage data hub across the whole technician team for seamless data synchronization.
+•	Prioritized communication and frequent team huddles to highlight key features that needed to be delivered. As a result of this the technician team were aligned on which tasks to prioritize and consistently meet deadlines on time.
+•	Developed expertise in the use of advanced surveying equipment and highly precise monitoring techniques.
 •	Implemented checks to prevent re-use of inactive input data using version and timestamp.
 
-Self-Employed Multi-Purpose Craftsman, across London - From March 2021 to August 2022 
-•	Implemented a seamless coded record process across platforms with use of third-party software to track project progression and utilized feedback to monitor client’s satisfaction.
-
-Geomatic Surveyor at DYWIDAG-Systems, across the whole England - From October 2019 to March 2021
-•	Prioritized communication and frequently stand-ups to highlights key features that needed to be delivered. As a result of this the technician team were aligned on which tasks to prioritize and consistently met deadlines on time.
-•	Developed expertise in the use of advanced surveying equipment and highly precise monitoring techniques.
 ```
 ________________________________________
 ### Other Relevant Experiences and Studies
 ```
-Software Engineer Internship at Digicom plc. Italy. 
-Among my tasks, I was tasked to debug the main on-platform software for the flag-ship VoIP router-like device. After assessing the beta version code, I ended up rewriting the entire application from scratch utilizing the OOD. The result was a much more functional and linear back-end package with none-to-zero latency.
+Software Engineer Internship  | Digicom plc. Italy
+•	Successfully debugged the primary on-platform software for the flagship VoIP router-like device during the internship.
+•	Undertook the task of assessing the beta version code and, as a strategic solution, rewrote the entire application from scratch, applying Object-Oriented Design (OOD) principles.
+•	Achieved a significant improvement in functionality and efficiency, resulting in a more streamlined server package with minimal to zero latency.
 
-Currently Undertaking the CS50 online version.
-CS50x covers a comprehensive introduction to computer science and programming. It includes fundamental concepts such as problem-solving, algorithms, and programming languages. It provides a strong foundation for further learning and application in diverse technical roles
 ```
-
-
-Protfolio tips: https://github.com/andysterks/three-levels-of-projects.git
 
