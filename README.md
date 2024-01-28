@@ -14,8 +14,8 @@ TABLE OF CONTENT:
 > Technical and Soft Skills<br>
 > Projects<br>
 > Education<br>
-> Working Experiences<br>
-> Other Relevant Experiences and Studies<br>
+> Experiences<br>
+> Other Relevant Experiences<br>
 
 
 ### Technical and Soft skills
@@ -60,7 +60,7 @@ Subjects studied: Object-Oriented Design, Agile methodologies, Test-Driven Devel
 Subjects studied: Visual Basic, C++ and C languages, Object-Oriented Programming, Debugging methodologies, Team Programming, Hardware-Software integration.
 ```
 ________________________________________
-### Relvant Experiences
+### Experiences
 ```
 
 Software developer student  |  Makers Academy  |  2023 – 2024
@@ -79,7 +79,7 @@ Geomatic Surveyor  |  Geocisa, HS2 project at Euston Station  |  2022 - 2023
 
 ```
 ________________________________________
-### Other Relevant Experiences and Studies
+### Other Relevant Experiences
 ```
 Software Engineer Internship  | Digicom plc. Italy
 •	Successfully debugged the primary on-platform software for the flagship VoIP router-like device during the internship.
